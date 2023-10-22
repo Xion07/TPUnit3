@@ -1,0 +1,24 @@
+FACTURAZION 3
+1.  En lugar de tener todo el código en el método main, se dividió en métodos más pequeños, cada uno con una responsabilidad específica.
+
+2. En lugar de utilizar bucles for para sumar los valores de la lista precioProducto, se utiliza la función stream() y los métodos reduce() o sum().
+
+3. En lugar de escribir directamente los valores de las fechas, se utilizó constantes para mejorar la legibilidad y facilitar los posibles cambios futuros.
+
+4. Se crea clases separadas para el código (Factura), quedando así imprimirFactura y la facturacionM3. Esto permitirá una mayor modularidad y reutilización del código.
+
+5. En lugar de utilizar la clase List para representar la lista de precios en la factura, se utiliza la interfaz List. Esto permitirá que el código sea más flexible.
+
+6. Se utiliza la anotación @Override para indicar que estás reemplazando una implementación existente.
+
+CALCULA AREA TRIANGULO 3
+
+1. En lugar de usar "b" y "h", se usa "base" y "altura" respectivamente.
+
+2. En lugar de usar "valor_area_triangulo", se utiliza simplemente "areaTriangulo".
+
+3. En lugar de realizar todas las operaciones en una sola línea, se divide en líneas individuales.
+
+4. En lugar de usar directamente el valor 0.5 en la fórmula del área del triángulo, se define una constante o una variable para ese valor y luego se utiliza en la fórmula.
+
+5. Se encapsula la fórmula para calcular el área del triángulo en una función separada, lo que facilita la reutilización del código y mejora la legibilidad del programa principal.
