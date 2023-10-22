@@ -1,3 +1,3 @@
 # Repositorio para entrega de Parcial Unidad 3
 
-Instrucciones dadas via zoom
+David Penagos
